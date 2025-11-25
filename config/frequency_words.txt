@@ -30,20 +30,11 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
 人工智能
 
-自动驾驶
-
-
-国产
-中国
 
 美国
 日本
@@ -51,7 +42,6 @@ ai
 
 
 科技
-
 
 iPhone
 小米
